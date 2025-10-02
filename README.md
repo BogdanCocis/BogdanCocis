@@ -28,5 +28,5 @@ Hands-on experience in monolithic and microservices architectures, with expertis
 
 ## 📫 Contact
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/bogdanteodorcocis/)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [https://www.linkedin.com/in/bogdanteodorcocis/](https://www.linkedin.com/in/bogdanteodorcocis/)
 - ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [cocis.bogdan20@gmail.com](mailto:cocis.bogdan20@gmail.com)
