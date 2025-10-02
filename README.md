@@ -1,7 +1,8 @@
 
 ## 👋 Hello!
 
-I'm Bogdan Cocis, a software developer with a passion for software development with a focus on the web area. I have experience working with various web technologies, programming languages, frameworks, and tools to build efficient and robust web applications.
+Junior Software Developer focused on building web applications with Java Spring Boot, React, and relational databases.
+Hands-on experience in monolithic and microservices architectures, with expertise in containerized deployments.
 
 ## 🛠️ Languages and Tools
 
@@ -27,5 +28,5 @@ I'm Bogdan Cocis, a software developer with a passion for software development w
 
 ## 📫 Contact
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/bogdan-teodor-coci%C8%99-870a122b8/?locale=ro_ro)
-- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [cocis.bogdan@yahoo.com](mailto:cocis.bogdan@yahoo.com)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/bogdanteodorcocis/)
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [cocis.bogdan@yahoo.com](mailto:cocis.bogdan20@gmail.com)
